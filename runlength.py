@@ -1,6 +1,5 @@
 pck_duplicates = []
 
-
 def pack_duplicates(l):
     index = 0
     slice_ind = index
